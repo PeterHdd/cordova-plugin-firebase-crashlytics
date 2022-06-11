@@ -73,7 +73,7 @@
        <source url="https://cdn.cocoapods.org/"/>
       </config>
       <pods use-frameworks="true">
-        <pod name="FirebaseCrashlytics"  />
+        <pod name="Firebase/Crashlytics" spec="9.1.0"/>
         <pod name="FirebaseAnalytics" />
       </pods>
     </podspec>
